@@ -1,0 +1,13 @@
+{
+  "masterIssue": true,
+  "platformAutomerge": true,
+  "recreateClosed": true,
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["*"],
+      "enabled": true,
+      "automerge": true,
+      "schedule": ["* 6 * * *"]
+    }
+  ]
+}
