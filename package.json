@@ -1,8 +1,6 @@
 {
-  "name": "@nutrio-space/api",
-  "version": "0.0.0",
-  "description": "",
-  "author": "",
+  "name": "@js-templates/nestjs",
+  "version": "0.0.0-set-automatically",
   "private": true,
   "license": "UNLICENSED",
   "prisma": {

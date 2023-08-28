@@ -1,9 +1,9 @@
+## Before start
+
+- Replace `@js-templates/nestjs` with Project Name
+
 ## Development
 
 ```shell
-# in parallel:
-yarn build:dev
-yarn start:dev
+yarn dev
 ```
-
-`concurrently` is not used for better performance
